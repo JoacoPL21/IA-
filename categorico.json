@@ -1,5 +1,5 @@
 [
-    {
+  {
     "Store": 1,
     "IsHoliday": 0,
     "Temperature": 42.31,
@@ -20,9 +20,8 @@
     "Year": 2010,
     "Month": 2,
     "Day": 5
-    
-}, 
- {
+  },
+  {
     "Store": 2,
     "IsHoliday": 1,
     "Temperature": 32.31,
@@ -43,6 +42,7 @@
     "Year": 2012,
     "Month": 10,
     "Day": 8
-      
-}
+  }
 ]
+
+
