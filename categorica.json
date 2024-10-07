@@ -1,4 +1,5 @@
-{["Store": 1,
+{
+    "Store": 1,
     "Year": 2010,
     "Month": 2,
     "Day": 5,
@@ -17,4 +18,5 @@
     "Event_Type_Christmas": 0,
     "Event_Type_Labour Day": 0,
     "Event_Type_Super Bowl": 0,
-    "Event_Type_Thanksgiving": 0]}
+    "Event_Type_Thanksgiving": 0
+}
